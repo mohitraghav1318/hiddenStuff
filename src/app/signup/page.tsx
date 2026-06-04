@@ -16,7 +16,7 @@ export default function SignupPage() {
 
   return (
     <PublicRoute>
-      <div className="flex min-h-screen items-center justify-center bg-zinc-50 dark:bg-black">
+      <div className="flex flex-1 items-center justify-center">
         <div className="w-full max-w-md rounded-lg bg-white p-8 shadow-md dark:bg-zinc-900">
           <h1 className="mb-6 text-2xl font-bold text-center text-black dark:text-white">
             Sign Up
